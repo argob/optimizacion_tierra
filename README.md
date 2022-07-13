@@ -1,5 +1,6 @@
 # Minimización y distribución óptima de la tierra
 
+
 ## El documento de trabajo
 El documento "Planificación productiva de alimentos básicos Modelización a partir de la Encuesta Nacional del Gasto de los Hogares y
 el Censo Nacional Agropecuario" se propone contribuir a la planificación de la producción de alimentos en Argentina, mediante un análisis
